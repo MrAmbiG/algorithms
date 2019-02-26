@@ -1,0 +1,16 @@
+Algorithms:
+    Search:
+        Linear
+        Binary
+    Sort:
+        Bubble
+        Selection
+        Merge
+        Insertion
+        Quicksort
+        Shell
+    Stacks
+    Queues:
+        Fifo
+        Lifo
+    Graphs:
