@@ -3,15 +3,50 @@ Algorithms:
         Linear
         Binary
     Sort:
-        Bubble
+        Bubble:
+            Bubble
+            Recursive
         Selection
-        Merge
-        Insertion
-        Quicksort
+        Merge:
+            Merge:
+                Linked lists
+                Doubly Linked lists
+                3 way
+            Iterative Merge
+        Insertion:
+            Insertion
+            Recursive Insertion
+        Quick:
+            Quick:
+                Singly Linked lists
+                Doubly Linked lists
+                3 way
+            Iterative Quick
         Shell
+        Heap
+        Radix
+        Bucket
+        Tim
+        Comb
+        Pigeonhole
+        Cycle
+        Cocktail
+        Strand
+        Bitonic
+        Pancake
+        Binary Insertion
+        Bobo (Permutation)
+        Gnome
+        Sleep
+        Stooge
+        Tag
+        Tree
+        Cartesian
+        Odd Even
     Stacks
     Queues:
         Fifo
         Lifo
     Graphs:
-        
+        Depth First Traversal
+        Breadth First Traversal
