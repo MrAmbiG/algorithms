@@ -1,7 +1,7 @@
 Algorithms:
     Search:
-        Linear
-        Binary
+        Linear [done]
+        Binary [done]
     Sort:
         Bubble:
             Bubble
@@ -9,7 +9,7 @@ Algorithms:
         Selection
         Merge:
             Merge:
-                Linked lists
+                Single linked lists
                 Doubly Linked lists
                 3 way
             Iterative Merge
