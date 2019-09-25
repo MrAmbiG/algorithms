@@ -4,7 +4,7 @@ Algorithms:
         Binary [done]
     Sort:
         Bubble:
-            Bubble
+            iterative [done]
             Recursive
         Selection
         Merge:
