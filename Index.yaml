@@ -1,26 +1,23 @@
 Algorithms:
     Search:
-        Linear [done]
-        Binary [done]
+        - Linear [done]
+        - Binary [done]
     Sort:
-        Bubble:
-            iterative [done]
-            Recursive
-        Selection
-        Merge:
-            Merge:
-                Single linked lists
-                Doubly Linked lists
-                3 way
-            Iterative Merge
+        - Bubble:
+            - iterative [done]
+            - Recursive [done]
+        - Selection
+    Single linked lists
+    Doubly linked lists
+    3 way linked lists
+    circular linked lists
+    Merge:
+        - Merge sort
+        Iterative Merge
         Insertion:
             Insertion
             Recursive Insertion
         Quick:
-            Quick:
-                Singly Linked lists
-                Doubly Linked lists
-                3 way
             Iterative Quick
         Shell
         Heap
@@ -44,6 +41,7 @@ Algorithms:
         Cartesian
         Odd Even
     Stacks
+    Palindrome
     Queues:
         Fifo
         Lifo
