@@ -1,16 +1,17 @@
 Algorithms:
     Search:
-        - Linear [done]
-        - Binary [done]
+        - Linear [done][coded]
+        - Binary [done][coded]
     Sort:
         - Bubble:
-            - iterative [done]
-            - Recursive [done]
+            - iterative [done][coded]
+            - Recursive [done][coded]
         - Selection
-    Single linked lists
-    Doubly linked lists
+    Single linked lists [coded]
+    Doubly linked lists [coded]
     3 way linked lists
-    circular linked lists
+    circular Single linked list [coded]
+    circular Double linked list
     Merge:
         - Merge sort
         Iterative Merge
@@ -48,3 +49,4 @@ Algorithms:
     Graphs:
         Depth First Traversal
         Breadth First Traversal
+    fibonacci:
